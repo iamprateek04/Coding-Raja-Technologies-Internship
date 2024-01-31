@@ -1,0 +1,26 @@
+{
+  "income": [
+    {
+      "amount": 2000.0
+    },
+    {
+      "amount": 5000.0
+    },
+    {
+      "amount": 5000.0
+    },
+    {
+      "amount": 200.0
+    }
+  ],
+  "expenses": [
+    {
+      "category": "bill",
+      "amount": 5000.0
+    },
+    {
+      "category": "200",
+      "amount": 400.0
+    }
+  ]
+}

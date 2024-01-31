@@ -1,3 +1,4 @@
+# to-do-list application with GUI.
 
 import tkinter
 from tkinter import *
